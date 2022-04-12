@@ -1,6 +1,7 @@
 ---
 layout: post
-title: my first post
+title: "my first post"
+date: 2022-04-12
 ---
 
 # Welcome 
